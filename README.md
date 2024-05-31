@@ -1,5 +1,6 @@
 # Eventix
-Project Portofolio Pengembangan Berbasis Teks (PBT), Aplikasi pesan tiket Dekstop dengan bahasa C# dan framework.net (aplikasi ini masih belum 100% jadi jadi mungkin ada beberapa fitur yang kurang atau mengalami bug)
+Project Portofolio Pengembangan Berbasis Teks (PBT), Aplikasi pesan tiket Dekstop dengan bahasa C# dan framework.net
+(aplikasi ini masih belum 100% jadi jadi mungkin ada beberapa fitur yang kurang atau mengalami bug)
 
 Fitur :
 - buat event
